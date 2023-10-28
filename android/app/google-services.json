@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38685148343",
+    "project_id": "login-e8220",
+    "storage_bucket": "login-e8220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38685148343:android:8ce87c8a1eab018978b932",
+        "android_client_info": {
+          "package_name": "com.example.demo_mayao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmI3Fvpfvkqi7WeJaW-QVPKne6YOtN5BY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
